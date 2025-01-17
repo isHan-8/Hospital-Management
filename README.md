@@ -35,29 +35,29 @@ Notification System
 
 ## Screenshots
 
-![signup](https://i.postimg.cc/bwHV2Bw4/Sign-Up.png)
+![signup]()
 
-![Sign in](https://i.postimg.cc/QCzg7c2B/Sign-In.png)
+![Sign in]()
 
-![Dashboard](https://i.postimg.cc/1zPJKcj2/Dashboard.png)
+![Dashboard]()
 
-![Users](https://i.postimg.cc/fRwJMVtm/Users.png)
+![Users]()
 
-![Doctors](https://i.postimg.cc/Gpndx2G9/Doctors.png)
+![Doctors]()
 
-![Profile](https://i.postimg.cc/XqzCDFkw/Profile.png)
+![Profile]()
 
-![Doctor signup](https://i.postimg.cc/0j1cQTw6/Doctor-Sign-Up.png)
+![Doctor signup]()
 
-![Booking](https://i.postimg.cc/xCCjFYMw/Book-Appointments.png)
+![Booking]()
 
-![Appointments](https://i.postimg.cc/59GfPnMX/Doctor-Appointments.png)
+![Appointments]()
 
-![Admin Notifications](https://i.postimg.cc/5ycbt2gw/Admin-Notifications.png)
+![Admin Notifications]()
 
-![Doctor Notification](https://i.postimg.cc/0yhtFKyd/Doctor-Notification.png)
+![Doctor Notification]()
 
-![User Notification](https://i.postimg.cc/zB8kYCZW/User-Notification.png)
+![User Notification]()
 
 ## Environment Variables
 
